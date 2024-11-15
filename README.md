@@ -1,0 +1,2 @@
+# DeclanRiceBot
+Discord bot
